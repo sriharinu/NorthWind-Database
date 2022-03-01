@@ -7,6 +7,7 @@ Create database in local computer
 --> Paste these contents in new query window
 --> select all commands and run the sql commands/statments
 --> This creates a Northwind database in your system
+-->
 
 NorthWind database is a open source database  used to practicing sql Queries on it 
 Writing all the queries will make you proficient at sql
