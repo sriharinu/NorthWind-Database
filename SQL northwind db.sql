@@ -1,11 +1,4 @@
-Main Menu
-KA2022_B1 - Foundational Technology Training
-Prod. Engineering
-SQL Evaluation - Northwind Case Study
-Shrivalli Srushti
-•
-10:13 AM
-100 points
+/* This creates NorthWind Database */
 
 
 SET NOCOUNT ON
